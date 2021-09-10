@@ -1,0 +1,21 @@
+arany - én rejtem a kincset
+ezüst - nem én rejtem
+bronz - az arany hazudik
+
+user - szerinted melyikbe van?
+
+milyen szereplők vannak? - oop
+
+melyik ládába van a kincs?
+
+
+
+-------------------------
+
+echo "# KincsesLada" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Sz-Melinda/KincsesLada.git
+git push -u origin main
